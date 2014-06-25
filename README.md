@@ -11,7 +11,7 @@ A thesis must always include the following components:
  * table of contents
  * bibliography
  
-All other special pages are optional. Regarding syntax and general usage of this template, refer to the example chapters. **Use margin notes (`\graffito{]`) only where absolutely neccessary!** They are more book-styled and won't fit well in a typical thesis.
+All other special pages are optional. Regarding syntax and general usage of this template, refer to the example chapters. **Use margin notes (`\graffito{}`) only where absolutely neccessary!** They are more book-styled and won't fit well in a typical thesis.
 
 ###Configuration
 
@@ -25,7 +25,7 @@ Obviously, the placement of the special pages can be changed by ordering their r
 
 ###Credits
 
-You can find the classicthesis project on [Google Code](https://code.google.com/p/classicthesis/). The original autor collects postcards from classicthesis users, you can find his address in the example .tex files.
+This document is based on classicthesis version 4.1 . You can find the classicthesis project on [Google Code](https://code.google.com/p/classicthesis/). The original autor collects postcards from classicthesis users, you can find his address in the example .tex files.
 
 The title page was inspired by the classicthesis fork of the Institute of Communications Technology at Leibniz Universität Hannover. The Welfenschloss picture was taken from their template which you can find at the [IKT website](http://www.ikt.uni-hannover.de/studium_templates.html?&L=1).
 
